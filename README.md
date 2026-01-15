@@ -356,11 +356,11 @@ LIMIT 10;
 
 ## 👨‍💻 Autor
 
-**[Tu Nombre]**
+**[Roberto Gomez]**
 
-- 📧 Email: roberto.kgc@gmail.com
-- 💼 LinkedIn: [linkedin.com/in/tu-perfil](www.linkedin.com/in/rkgc0897)
-- 🐙 GitHub: [github.com/tu-usuario](https://github.com/tu-usuario)
+- 📧 Email: roberto.kgc@gmail.com 
+- 💼 LinkedIn: www.linkedin.com/in/rkgc0897
+- 🐙 GitHub: https://github.com/RobertoGC97 
 
 ---
 
