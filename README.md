@@ -358,8 +358,8 @@ LIMIT 10;
 
 **[Tu Nombre]**
 
-- 📧 Email: tu@email.com
-- 💼 LinkedIn: [linkedin.com/in/tu-perfil](https://linkedin.com/in/tu-perfil)
+- 📧 Email: roberto.kgc@gmail.com
+- 💼 LinkedIn: [linkedin.com/in/tu-perfil](www.linkedin.com/in/rkgc0897)
 - 🐙 GitHub: [github.com/tu-usuario](https://github.com/tu-usuario)
 
 ---
@@ -384,7 +384,3 @@ Este proyecto está bajo la Licencia MIT - ver el archivo [LICENSE](LICENSE) par
 - [PySpark Documentation](https://spark.apache.org/docs/latest/api/python/)
 - [Pandas Documentation](https://pandas.pydata.org/docs/)
 - [PostgreSQL Documentation](https://www.postgresql.org/docs/)
-
----
-
-**⭐ Si te gustó este proyecto, dale una estrella en GitHub!**
